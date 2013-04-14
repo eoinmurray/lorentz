@@ -26,3 +26,8 @@ Specify the files you want to watch in a .lorentzwatch file.
 	app.js
 	index.html
 ```
+
+
+### Todo
+
+1. Make such that a cli version of lorentz can be run from any dir, and will support any language set up then.
