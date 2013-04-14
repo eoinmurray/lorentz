@@ -1,0 +1,18 @@
+{
+  "author": "Eoin Murray",
+  "name": "lorentz",
+  "description": "Live reload of browser on asset change.",
+  "version": "0.0.2",
+  "repository": {
+    "url": "http://github.com/eoinmurray/lorentz"
+  },
+  "main": "./lib/lib",
+  "dependencies": {
+      "socket.io" : ">=0.9"
+  	},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
