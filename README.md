@@ -16,7 +16,7 @@ Server side.
 Client-side.
 
 ```javascript
-	<script src="http://localhost:8081/lorentz.js"><\/script>
+	<script src="http://localhost:8081/lorentz.js"></script>
 ```
 
 Specify the files you want to watch in a .lorentzwatch file.
