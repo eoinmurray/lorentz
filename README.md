@@ -10,7 +10,7 @@ Server side.
 
 ```
 	var lorentz = require('lorentz')
-	lorentz.liveReload(__dirname, port) // defaults to 8081
+	lorentz.liveReload(__dirname[, port]) // defaults to 8081
 ```
 
 Client-side.
